@@ -1,2 +1,2 @@
-# Poject-Euler
+# Project-Euler
 Problems from the page
